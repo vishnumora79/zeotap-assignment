@@ -90,6 +90,21 @@ src/
 └── App.jsx            # Root component
 ```
 
+## Setup Instructions
+
+### Clone the Repository
+```bash
+git clone https://github.com/vishnumora79/zeotap-assignment.git
+cd zeotap-assignment
+```
+
+
+#### Run the application
+```bash
+npm install
+npm run dev 
+```
+
 ## Development Decisions
 
 1. **Component Architecture**:
